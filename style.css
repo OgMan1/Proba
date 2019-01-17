@@ -1,0 +1,23 @@
+.navbar-brand{
+    margin-top: 5px;
+}
+.linknav{
+    margin-top:7px;
+}
+.btnnav{
+    border-radius:20px;
+}
+.gore{
+    background-image: linear-gradient(to right,blue, purple);
+}
+.levdiv{
+    margin-top:70px;
+    color:white;
+}
+.desendiv{
+    margin:20px 0;
+}
+.btnnav1{
+    border-radius:20px;
+    margin-top:20px;
+}
